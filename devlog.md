@@ -9,3 +9,7 @@ I am starting Project 1 for CS4337, which involves creating a calculator using p
 * Implement the Mode Detection
 * Create a function to split the input strings into individual tokens
 * Start working on the logic for the needed expressions
+
+## March 3, 2026, 3:30 PM
+### Reflection
+I created the function to split up the string into tokens, and started working on the function to parse the expression. I also implemented the addition and multiplication logic. In my next session I want to implement the unary negation and division logic, as well as, working on the main function loop to make it easier to test. I may also start on the history creation/reference. 
