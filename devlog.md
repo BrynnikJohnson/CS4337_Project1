@@ -19,3 +19,7 @@ I created the function to split up the string into tokens, and started working o
 * Finish the rest of the calculation logic (unary negation, division, etc.)
 * Create the main function loop to display everything correctly and allow multiple inputs until quit
 * Work on/finish the history implementation
+
+## March 6, 2026, 5:06 PM
+### Reflection
+I finished all of the logic for the calculations as well as the history implementation. I also created the main program loop to be able to continuously input until the user quits. The implementation of the history referencing took me a little longer because the cons operator results in values being stored in reverse order. I eventually resolved this by first reversing the list before retrieving the value by its index.
