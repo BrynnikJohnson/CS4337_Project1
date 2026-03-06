@@ -10,11 +10,11 @@ This project is a prefix-notation expression calculator implemented in Racket. I
 ## How to Run the Program
 The code can be in either Interactive or Batch mode.
 
-# Interactive Mode
+### Interactive Mode
 To run the calculator with user prompts:
 "racket project1.rkt"
 
-# Batch Mode
+### Batch Mode
 To run the program without prompts, use the -b or --batch flag:
 "racket project1.rkt -b"
 
